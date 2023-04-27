@@ -1,1 +1,1 @@
-# typescript
+codes for udemy/typescript-for-professionals
